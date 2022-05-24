@@ -4,4 +4,8 @@ public class Calculator {
         return x + y;
     }
 
+    public Double substrat(Double x, Double y) {
+        return x - y;
+    }
+
 }
